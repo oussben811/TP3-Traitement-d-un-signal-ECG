@@ -1,8 +1,4 @@
 # TP3 - Traitement d’un signal ECG
-
-## Objectifs
-  -  Suppression du bruit autour du signal produit par un électrocardiographe.
-  - Recherche de la fréquence cardiaque. 
   
 ## Introduction
     L'ECG (électrocardiogramme) est un enregistrement de l'activité électrique du cœur.
@@ -11,6 +7,10 @@
     consiste généralement à enregistrer les signaux électriques du cœur, à les amplifier
     et à les filtrer pour enlever les bruits parasites, puis à les analyser pour détecter
     des anomalies telles que des troubles de la conduction, des arythmies, etc.
+    
+## Objectifs
+  -  Suppression du bruit autour du signal produit par un électrocardiographe.
+  - Recherche de la fréquence cardiaque. 
     
 ## Réalisation du TP
 ### Suppression du bruit provoqué par les mouvements du corps
